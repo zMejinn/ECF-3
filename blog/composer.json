@@ -1,0 +1,14 @@
+{
+    "name": "daeme/blog",
+    "autoload": {
+        "psr-4": {
+            "Daeme\\SRC\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "skip"
+        }
+    ],
+    "require": {}
+}
